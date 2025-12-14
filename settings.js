@@ -28,7 +28,7 @@ global.ownernumber = process.env.OWNER_NUMBER || '27767494368'
 
 //--------------------[ SUDO ]--------------------------//
 
-global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['27767494368', '27818232269'];
+global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['27767494368', '27703835258'];
 // Type additional allowed users here
 //NB: They'll be able to use every functions of the bot without restrictions.
 
@@ -58,7 +58,7 @@ global.dbToken = process.env.GITHUB_TOKEN || "";
 
 //-----------------[ CONTEXT LINK ]--------------------//
 
-global.plink = process.env.PLINK || "https://instagram.com/808hasducks"
+global.plink = process.env.PLINK || "https://instagram.com/vx._xanaxskii"
 
 //------------------[ WATERMARK ]--------------------//
 
